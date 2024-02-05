@@ -7,7 +7,7 @@
  
  TASK:  
   1. Can you source and load alternative data? 
-  2. Can you add text to the lollipops grabbed from the 'context' column? 
+  2. Can you add graphics to the lollipops? 
 
   */
 
