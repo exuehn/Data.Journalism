@@ -2,7 +2,7 @@ let img; // Declare variable 'img'.
 
 function setup() {
   createCanvas(720, 400);
-  img = loadImage('myimage.png'); // Load image
+  img = loadImage('person.png'); // Load image
 }
 
 function draw() {
